@@ -1,0 +1,10 @@
+{
+  "name": "classificador-nivel-heroi",
+  "version": "1.0.0",
+  "description": "Desafio de lógica de programação da DIO para classificação de nível de heróis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
